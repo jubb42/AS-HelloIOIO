@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "ioio.examples.hello"
         minSdkVersion 3
-        targetSdkVersion 15
+        targetSdkVersion 10
     }
 
     buildTypes {
